@@ -9,6 +9,7 @@
 
 ## Please fill in your project documentation in this README.md file 
 
+Testing ReRAM structures.
 
 :warning: | Use this sample project for analog user projects. 
 :---: | :---
